@@ -1,0 +1,24 @@
+[33mcomponent-class-suffix does not yet have an ESLint equivalent.[39m
+[33mcomponent-selector does not yet have an ESLint equivalent.[39m
+[33mcontextual-lifecycle does not yet have an ESLint equivalent.[39m
+[33mdirective-class-suffix does not yet have an ESLint equivalent.[39m
+[33mdirective-selector does not yet have an ESLint equivalent.[39m
+[33mimport-blacklist does not yet have an ESLint equivalent.[39m
+[33mimport-spacing does not yet have an ESLint equivalent.[39m
+[33mjsdoc-format does not yet have an ESLint equivalent.[39m
+[33mno-conflicting-lifecycle does not yet have an ESLint equivalent.[39m
+[33mno-host-metadata-property does not yet have an ESLint equivalent.[39m
+[33mno-input-rename does not yet have an ESLint equivalent.[39m
+[33mno-inputs-metadata-property does not yet have an ESLint equivalent.[39m
+[33mno-output-native does not yet have an ESLint equivalent.[39m
+[33mno-output-on-prefix does not yet have an ESLint equivalent.[39m
+[33mno-output-rename does not yet have an ESLint equivalent.[39m
+[33mno-outputs-metadata-property does not yet have an ESLint equivalent.[39m
+[33mno-reference-import does not yet have an ESLint equivalent.[39m
+[33mone-line does not yet have an ESLint equivalent.[39m
+[33mtemplate-banana-in-box does not yet have an ESLint equivalent.[39m
+[33mtemplate-no-negated-async does not yet have an ESLint equivalent.[39m
+[33muse-lifecycle-interface does not yet have an ESLint equivalent.[39m
+[33muse-pipe-transform-interface does not yet have an ESLint equivalent.[39m
+[33mwhitespace does not yet have an ESLint equivalent.[39m
+[33m[39m
