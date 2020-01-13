@@ -37,8 +37,6 @@
     "codelyzer": "^5.1.2",
     "debug": "^4.1.1",
     "eslint": "^6.1.0",
-    "eslint-config-airbnb": "^18.0.1",
-    "eslint-config-airbnb-base": "^14.0.0",
     "eslint-config-node": "^4.0.0",
     "eslint-config-prettier": "^6.9.0",
     "eslint-find-rules": "^3.4.0",
@@ -60,10 +58,5 @@
     "tslint": "~5.18.0",
     "tslint-to-eslint-config": "^0.5.0",
     "typescript": "~3.6.4"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "pretty-quick --staged"
-    }
   }
 }
