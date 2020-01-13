@@ -1,3 +1,10 @@
 export const environment = {
-  production: false, // to know if your app has to be compiled with prod config
+  production: false,
+  apiKey: 'your api key', // TODO: refactor: What api Key is this ?
+  authDomain: '****.firebaseapp.com',
+  databaseURL: 'https://****firebaseio.com',
+  projectId: '****',
+  storageBucket: '****',
+  messagingSenderId: '****',
+  pipedriveApiToken: '****',
 };
